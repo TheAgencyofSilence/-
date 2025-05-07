@@ -6,4 +6,4 @@
 
 Здесь вы найдёте всё, что нужно, чтобы начать: от пролога до создания персонажа.
 
-[![Начать](https://img.shields.io/badge/НАЧАТЬ-darkgreen?style=for-the-badge)](_sidebar.md)
+[![Начать](https://img.shields.io/badge/НАЧАТЬ-darkgreen?style=for-the-badge)](prologue.md)
