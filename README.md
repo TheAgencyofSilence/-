@@ -1,9 +1,9 @@
-# Добро пожаловать в **"Agency of Silence"**
+# Добро пожаловать в "Agency of Silence"
 
-> *"Ваши тайны — наша репутация"*
+> _"Ваши тайны — наша репутация"_
 
 Эта игра о тенях, следах прошлого и тяжёлых решениях.
 
 Здесь вы найдёте всё, что нужно, чтобы начать: от пролога до создания персонажа.
 
-[![Начать](https://img.shields.io/badge/НАЧАТЬ-darkgreen?style=for-the-badge)](prologue.md)
+[![Начать](https://img.shields.io/badge/НАЧАТЬ-004d40?style=for-the-badge&logoColor=white)](prologue.md)
