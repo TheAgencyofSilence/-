@@ -1,7 +1,7 @@
 <h2>Добро пожаловать в "Agency of Silence"</h2>
 <p>Это игра о тенях, выборах и следах прошлого.</p>
 
-<a href="#/index" style="
+<a href="#/_sidebar.md" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #444;
